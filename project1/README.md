@@ -8,9 +8,8 @@
 
 ## Perguntas
 
-
-
-
+* Haver mais do que um business actor com o mesmo nome é possivel? É má pratica? Alternativas;
+* A agregação do ou nos especialistas está correta? Ou basta as duas setas de atribuição?
 
 ## Primeiro "Viewport"
 
