@@ -74,7 +74,7 @@
       <child xsi:type="archimate:DiagramObject" id="id-89be300a908d4496ae7eb2343d4eb662" targetConnections="id-fb90ab9fd0a54b749d7b61f2bd07b1d0" archimateElement="id-94b7e9306c9d49d4b844ee897f4aa85a">
         <bounds x="876" y="276" width="145" height="49"/>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="id-467c9e9fe2794baf9a0d0e6e9ec6a750" archimateElement="id-7f1369afe30e461482683c8ef884d7fe">
+      <child xsi:type="archimate:DiagramObject" id="id-467c9e9fe2794baf9a0d0e6e9ec6a750" targetConnections="id-d67d3790b68b44fbb09605e8c0ffacb9" archimateElement="id-7f1369afe30e461482683c8ef884d7fe">
         <bounds x="144" y="48" width="1033" height="49"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-6edd4766b4ba4f898f1a93662b134078" source="id-467c9e9fe2794baf9a0d0e6e9ec6a750" target="id-1c2d1fe000504541a7bf1e92e2f0740b" archimateRelationship="id-86d6326b63da4a0bae9657260b5060c4"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-748dede065594894aecd39640b5e8ae1" source="id-467c9e9fe2794baf9a0d0e6e9ec6a750" target="id-abac0f44d11b475a80bf0acb9e04c8a7" archimateRelationship="id-a0745527701d4ee4b09a285eb2ec3f8a"/>
@@ -93,6 +93,11 @@
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-e8a9f10fda3c45baa68285b174efd793" targetConnections="id-b88a26034b6d4b2daf691e116cca2e7d" archimateElement="id-88cd79dd9e194e24912266fe69736cd2">
         <bounds x="300" y="444" width="145" height="61"/>
+      </child>
+      <child xsi:type="archimate:Note" id="id-c4dea13d6558400c8e6fb5c966511590" textAlignment="1">
+        <bounds x="1147" y="124" width="185" height="45"/>
+        <sourceConnection id="id-d67d3790b68b44fbb09605e8c0ffacb9" source="id-c4dea13d6558400c8e6fb5c966511590" target="id-467c9e9fe2794baf9a0d0e6e9ec6a750"/>
+        <content>Deve ser um actor e não um role...</content>
       </child>
     </element>
   </folder>
