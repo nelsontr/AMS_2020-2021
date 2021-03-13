@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="(new model)" id="id-2bc8e3708eb0437ab38bef3ca2e65e3e" version="4.6.0">
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="diagrama1" id="id-2bc8e3708eb0437ab38bef3ca2e65e3e" version="4.6.0">
   <folder name="Strategy" id="id-72d57371e9844522a9b8e032ee6ecd96" type="strategy"/>
   <folder name="Business" id="id-0b02beaa03e4403e812fc0a8f5e6cd65" type="business">
     <element xsi:type="archimate:BusinessRole" name="Diretor Geral (CEO)" id="id-8c340b386acb444183ee07acee1a2ac6"/>
