@@ -6,7 +6,14 @@
 
 **TODOS** os ficheiros entregues devem ter como prefixo a string "AMS2021_Gxxx_", sendo "xxx" o número do grupo, COM 3 DÍGITOS!!! Por exemplo, para o ficheiro PDF do grupo 12 com o relatório para a primeira entrega, o nome deverá ser "AMS2021_G037_E1.PDF"
 
-## Perguntas
+# TODO
+
+* Meter responsáveis nos LDep, CDep, etc..
+* (...)
+
+
+
+# Perguntas
 
 **P:** Haver mais do que um business actor com o mesmo nome é possível? É má pratica? 
 
@@ -47,3 +54,21 @@
     * LDep
       * Técnicos especialistas para apoio ao **CDep** e especialistas para apoio ao **CA**, sendo neste caso esse apoio fornecido a nível individual a cada um desses membros.
     * FDep
+
+
+
+# Segundo Viewport
+
+* SATNET
+  * Uma estação de rede
+  * Sempre que receber um pacote, a SATIS tambem deve receber e enviar para o client
+  * Quando um satelite adiciona um pacote de estrutura de dados, a SATIS tem de extrair esses dados e envia-los a aplicação SPXSMT.
+  * Sempre que há um novo SLA ou um SLA é removido, a aplicação SATIS  informa  a  rede  SATNE.
+  * SATNET  apenas  informará  a  aplicação  SATIS  de  pacotes   de satélites cobertos por SLA.
+* Interface Browser SLA e Application mobiles 
+* A  aplicação  SPXSMT  pode  informar  em  qualquer  momento  a aplicação  SATIS  do  resultado  de  uma  análise  de  dados  de  um satélite,  a  qual  deve  ser reencaminhada  para  o  cliente  e  ficar registada na aplicação SATIS.
+
+TDep
+
+* (...)
+
