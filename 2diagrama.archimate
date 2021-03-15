@@ -35,6 +35,7 @@
     <element xsi:type="archimate:Node" name="Antenas" id="id-a19e22b08e774787b75dc007051e78ce"/>
     <element xsi:type="archimate:Node" name="Sistema operacional" id="id-a776bb018bc043dabd9bab6a5a93e5cd"/>
     <element xsi:type="archimate:Node" name="Fonte de energia" id="id-9d2f581677e34f20ba5b49640a9001e1"/>
+    <element xsi:type="archimate:TechnologyService" name="Serviço de monitorização" id="id-91b5bc332fa74c1e8de04448d38369d1"/>
   </folder>
   <folder name="Motivation" id="id-83a1eee023da48b3b4220ea406c50ae3" type="motivation"/>
   <folder name="Implementation &amp; Migration" id="id-db66646fa3504281bd758182585a185f" type="implementation_migration"/>
@@ -235,7 +236,7 @@ Parágrafos -> linhas 135 a 154;</content>
       <child xsi:type="archimate:DiagramObject" id="id-51d364eb1aef4b758e8008f5061be098" archimateElement="id-648922006548494b838f0ef7f95beded">
         <bounds x="60" y="732" width="120" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-32c60662ede04d07bf5acf24b95e3aa0" source="id-51d364eb1aef4b758e8008f5061be098" target="id-feb1a506c27745868f455a9c93ffff3d" archimateRelationship="id-b02ac2b853fa4f95956a47db9f9bee85">
-          <bendpoint startX="-60" startY="-555" endX="-107" endY="7"/>
+          <bendpoint startX="-48" startY="-555" endX="-95" endY="7"/>
         </sourceConnection>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-4cf1094689de495caca0f8def4877c62" targetConnections="id-32b6f2683eaf4d5299525c003b9543c6" archimateElement="id-51c24b89b7ef4759bf4429ffb757372a">
@@ -252,6 +253,9 @@ Parágrafos -> linhas 135 a 154;</content>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-58fe8326be6f4fe2a8aadd17674332af" targetConnections="id-b35e6793c86c42589950c1c656668ba7" archimateElement="id-9d2f581677e34f20ba5b49640a9001e1">
         <bounds x="824" y="858" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-ae43f24041a14eec803d8eb5bfa1619c" archimateElement="id-91b5bc332fa74c1e8de04448d38369d1">
+        <bounds x="657" y="605" width="120" height="55"/>
       </child>
     </element>
   </folder>
