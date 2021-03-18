@@ -6,7 +6,7 @@ Systems Analysis and Modeling 2020/2021
 
 ### <span style="color:red">WARNINGS</span>
 
-**TOD**TODOS** os ficheiros entregues devem ter como prefixo a string "AMS2021_Gxxx_", sendo "xxx" o número do grupo, COM 3 DÍGITOS!!! Por exemplo, para o ficheiro PDF do grupo 12 com o relatório para a primeira entrega, o nome deverá ser "AMS2021_G037_E1.PDF"
+**TODOS** os ficheiros entregues devem ter como prefixo a string "AMS2021_Gxxx_", sendo "xxx" o número do grupo, COM 3 DÍGITOS!!! Por exemplo, para o ficheiro PDF do grupo 12 com o relatório para a primeira entrega, o nome deverá ser "AMS2021_G037_E1.PDF"
 
 #### Group
 
