@@ -27,13 +27,11 @@ Group: 037
 * 
 
 ### Projects
-- [ ] [Project1](project1/docs/AMS2020-2021_Projeto_UoD_V01.pdf)
-- [ ] [Project2]()
-- [ ] [Project3]()
+[Document](docs/AMS2020-2021_Projeto_UoD_V01.pdf)
 
 ### Grades
 | Solution				| Grade (out of 20.0) 	|
 | :-------------------- | :-------------------: |
-| [Project1]()			| *00.0*				|
+| [Project1](project1/AMS2021_G037_E1.pdf)	| *00.0*				|
 | [Project2]()			| *00.0*				|
 | [Project3]()			| *00.0*				|
