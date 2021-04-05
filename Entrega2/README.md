@@ -22,9 +22,11 @@
 
 ---
 
-​	**Q:** (...)?
+​	**Q:** Qual a diferença entre `Evento de envio` e `Tarefa de envio`?
 
-​	**A:** (...)
+​	**A:** O evento não pertence a ninguém, ou seja o enviar mensagem não tem nenhuma atividade por trás. A tarefa de enviar mensagem já indica que há um trabalho por trás antes de enviar. Por exemplo escrever um mail para a professora a dizer que queria ir ao horário de dúvidas: tarefa porque tive de elaborar e escrever o mail. Se fosse uma cena automática de enviar já era um evento.
+
+---
 
 #### Resoluções
 
