@@ -33,3 +33,19 @@
 | Resolução                    | Resolução Alternativa              |
 | ---------------------------- | ---------------------------------- |
 | ![Diagrama01](diagram_1.png) | ![Diagrama01_Alt](diagram_1_2.png) |
+
+
+
+## BPMN - Processo de intervenção
+
+#### Dúvidas
+
+​	**Q:** O ODep pode rever o plano de entregas com o operador logístico ou alterar o plano de viagens. Não estou a perceber muito bem esta parte. Pelo menos a parte na equipa TDep pode ser elaborada da forma que está?
+
+​	**A:** (...)
+
+---
+
+​	**Q:** O TDep elabora um relatório para enviar ao CTO no fim de cada intervenção, seja esta mensal ou de avaria, certo? Porém o CTO só envia um relatório para o CA quando são intervenções mensais, certo?
+
+​	**A:** (...)
