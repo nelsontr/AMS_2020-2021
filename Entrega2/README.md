@@ -16,39 +16,33 @@
 
 #### Dúvidas
 
-​	**Q:** Qual a melhor abordagem (segundo as abordagens que temos)?
-
-​	**A:** (...)
-
----
-
 ​	**Q:** A forma como temos a resposta em simultâneo é a adequada? Ou existe uma maneira mais adequada de ser feita?
 
-​	**A:** (...)
+​	**A:** É sequencial - meter a tarefa como sequencial
 
 ---
 
 ​	**Q:** Precisamos de fazer o mesmo que fizemos no simultâneo no envio das propostas?
 
-​	**A:** (...)
+​	**A:** *Não perguntado*
 
 ---
 
 ​	**Q:** Em termos de o cliente responder dentro de um certo tempo ás criticas do LDep e do TDep, a maneira como temos corresponde a essa interpretação??
 
-​	**A:** (...)
+​	**A:** Interpretações diferentes, precisamos de interpretar os `Pareceres Juridicos` e os `Pareceres Legais`
 
 ---
 
 ​	**Q:** Qual a diferença entre fazer como está no cliente e no TDep?
 
-​	**A:** (...)
+​	**A:** O nosso diagrama é um processo privado, pelo que tudo (exceto o Cliente) deve estar uma lane.
 
 ---
 
 ​	**Q:** Como informar o responsável quando o LDep/TDep demoram mais do que 24 horas a responder?
 
-​	**A:** (...)
+​	**A:** Há um exemplo algures em 2019
 
 ---
 ​	**Q:** Qual a diferença entre `Evento de envio` e `Tarefa de envio`?
