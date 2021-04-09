@@ -16,8 +16,8 @@
     <element xsi:type="archimate:BusinessRole" name="Planeamento " id="id-5a81f1fa637b4572b04c3121b0f32960"/>
     <element xsi:type="archimate:BusinessRole" name="Gestão da relação com clientes" id="id-63f086f6e6b94b489bb1c9bf9d7ec3cc"/>
     <element xsi:type="archimate:BusinessRole" name="Apoiante" id="id-3e6a0af408174c489ef644d98fca7bb7"/>
-    <element xsi:type="archimate:BusinessActor" name="Funcionários" id="id-579fd05d48514906898ea0b0e885db5c"/>
-    <element xsi:type="archimate:BusinessActor" name="Especialistas" id="id-dab33c0f3d2a4bfe88a15490fff4e151"/>
+    <element xsi:type="archimate:BusinessActor" name="Técnicos Especialistas" id="id-579fd05d48514906898ea0b0e885db5c"/>
+    <element xsi:type="archimate:BusinessActor" name="Funcionários Especialistas" id="id-dab33c0f3d2a4bfe88a15490fff4e151"/>
     <element xsi:type="archimate:BusinessActor" name="Especialistas" id="id-1237fb84675a4818ac82fd9a204a92a5"/>
     <element xsi:type="archimate:BusinessActor" name="Técnicos" id="id-300dee1511ff483c8dda276e89e49e84"/>
   </folder>
