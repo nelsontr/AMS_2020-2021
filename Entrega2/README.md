@@ -5,16 +5,26 @@
 **Diagramas a realizar:**
 
 * [#1](#bpmn---processo-de-proposta-a-um-pedido-e-de-celebração-de-contrato) - `BPMN` - Processo de proposta a um pedido e de celebração de contrato;
-
-* [#2]() - `BPMN` - Processo de intervenção numa estação;
-
+* [#2](#bpmn---processo-de-intervenção) - `BPMN` - Processo de intervenção numa estação;
 * [#3]() - `UML` - Casos de uso da Aplicação *Satis*;
-
 * [#4]() - `Lingua Natural` - Descrição estruturada.
 
 ## BPMN - Processo de proposta a um pedido e de celebração de contrato
 
-#### Dúvidas
+### Dúvidas
+
+- **Q:** Como fazer as 24horas do relatório?
+
+- **Q:** Todos têm acesso a um relatório feito por terceiros?
+
+- **Q:** Como separar pareceres de TDep e LDep?
+
+- **Q:** Database para relatórios e propostas?
+
+- **Q:** Como resolver `Envio de Relatórios` e `Receção de Relatórios`?
+
+
+#### Respondidas
 
 ​	**Q:** A forma como temos a resposta em simultâneo é a adequada? Ou existe uma maneira mais adequada de ser feita?
 
@@ -51,11 +61,11 @@
 
 ---
 
-#### Resoluções
+#### Resolução
 
-| Resolução                    | Resolução Alternativa              |
-| ---------------------------- | ---------------------------------- |
-| ![Diagrama01](diagram_1.png) | ![Diagrama01_Alt](diagram_1_2.png) |
+| Resolução                    |
+| :--------------------------:   |
+| ![Diagrama01](diagram_1.png) |
 
 
 
