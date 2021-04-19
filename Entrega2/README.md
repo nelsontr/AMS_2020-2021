@@ -13,15 +13,11 @@
 
 ### Dúvidas
 
-- **Q:** Como fazer as 24horas do relatório?
-
+- **Q:** Como fazer as 24horas do relatório? Será que poderíamos fazer uma tarefa com ciclo?
+- **Q:** Podemos meter cores? \^_^
+- **Q:** Será que podemos ter uma tarefa de envio sem receber do outro lado?
+- **Q:** Data Objects - Como é que os ligamos?
 - **Q:** Todos têm acesso a um relatório feito por terceiros?
-
-- **Q:** Como separar pareceres de TDep e LDep?
-
-- **Q:** Database para relatórios e propostas?
-
-- **Q:** Como resolver `Envio de Relatórios` e `Receção de Relatórios`?
 
 
 #### Respondidas
