@@ -82,3 +82,10 @@
 #### Resolução
 
 ![Diagrama02](diagram_2.png)
+
+
+### Casos de uso da Aplicação *Satis*
+
+#### Resolução
+
+![Diagrama03](diagrama_3.jpg)
