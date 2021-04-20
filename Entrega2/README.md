@@ -59,9 +59,7 @@
 
 #### Resolução
 
-| Resolução                    |
-| :--------------------------:   |
-| ![Diagrama01](diagram_1.png) |
+![Diagrama01](diagram_1.png)
 
 
 
@@ -79,3 +77,8 @@
 
 ​	**A:** (...)
 
+---
+
+#### Resolução
+
+![Diagrama02](diagram_2.png)
