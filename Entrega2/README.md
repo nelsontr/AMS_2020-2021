@@ -13,18 +13,6 @@
 
 ### Dúvidas
 
-- **Q:** Como fazer as 24horas do relatório? Será que poderíamos fazer uma tarefa com ciclo?
-- **A:** Temos de por de duas maneiras por causa das desistencias em paralelo
-- **Q:** Podemos meter cores? \^_^
-- **A:** Podemos 
-- **Q:** Será que podemos ter uma tarefa de envio sem receber do outro lado?
-- **A:** Podemos porque estamos na mesma pool; eventos de envios mais necessarios para pools diferentes
-- **Q:** Data Objects - Como é que os ligamos?
-- **A:** Data store para registar porque todos os pareceres e etc têm de ser registados
-- **Q:** Todos têm acesso a um relatório feito por terceiros? 
-- **A:** Com data store sim
-
-
 #### Respondidas
 
 ​	**Q:** A forma como temos a resposta em simultâneo é a adequada? Ou existe uma maneira mais adequada de ser feita?
