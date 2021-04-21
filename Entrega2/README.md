@@ -13,13 +13,6 @@
 
 ### Dúvidas
 
-- **Q:** Como fazer as 24horas do relatório? Será que poderíamos fazer uma tarefa com ciclo?
-- **Q:** Podemos meter cores? \^_^
-- **Q:** Será que podemos ter uma tarefa de envio sem receber do outro lado?
-- **Q:** Data Objects - Como é que os ligamos?
-- **Q:** Todos têm acesso a um relatório feito por terceiros?
-
-
 #### Respondidas
 
 ​	**Q:** A forma como temos a resposta em simultâneo é a adequada? Ou existe uma maneira mais adequada de ser feita?
@@ -54,6 +47,36 @@
 ​	**Q:** Qual a diferença entre `Evento de envio` e `Tarefa de envio`?
 
 ​	**A:** O evento não pertence a ninguém, ou seja o enviar mensagem não tem nenhuma atividade por trás. A tarefa de enviar mensagem já indica que há um trabalho por trás antes de enviar. Por exemplo escrever um mail para a professora a dizer que queria ir ao horário de dúvidas: tarefa porque tive de elaborar e escrever o mail. Se fosse uma cena automática de enviar já era um evento.
+
+---
+
+​ **Q:** Como fazer as 24horas do relatório? Será que poderíamos fazer uma tarefa com ciclo?
+
+​ **A:** Temos de por de duas maneiras por causa das desistencias em paralelo
+
+---
+
+​ **Q:** Podemos meter cores? \^_^
+
+​ **A:** Podemos 
+
+---
+
+​ **Q:** Será que podemos ter uma tarefa de envio sem receber do outro lado?
+
+​ **A:** Podemos porque estamos na mesma pool; eventos de envios mais necessarios para pools diferentes
+
+---
+
+​ **Q:** Data Objects - Como é que os ligamos?
+
+​ **A:** Data store para registar porque todos os pareceres e etc têm de ser registados
+
+---
+
+​ **Q:** Todos têm acesso a um relatório feito por terceiros? 
+
+​ **A:** Com data store sim
 
 ---
 
