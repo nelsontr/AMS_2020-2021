@@ -10,12 +10,12 @@ Systems-Analysis-and-Modeling 2020/2021
 
 ### Projects
 - [X] [Zero](https://github.com/catasofia/Systems-Analysis-and-Modeling/blob/main/Entrega1/AMS2021_G024_E1.pdf)
-- [ ] [Intermediate]()
+- [x] [Intermediate](https://github.com/catasofia/Systems-Analysis-and-Modeling/blob/main/Entrega2/AMS2021_G029_E2.pdf)
 - [ ] [Final]()
 
 ### Grades
 | Solution          | Grade 				|
 | :-----------------| :-------------------: |
-| [Zero]()			| *00.0* / 20.0           |
-| [Intermediate]()	| *00.0* / 20.0           |
+| [Zero]()			| *16.88* / 20.0     |
+| [Intermediate]()	| *18.18* / 20.0       |
 | [Final]()         | *00.0* / 20.0           |
