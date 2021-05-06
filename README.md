@@ -4,7 +4,7 @@
 
 Systems-Analysis-and-Modeling 2020/2021
 
-#### Group
+#### Group nº29
 - @catasofia
 - @OcarinaRedcoat
 - @nelsontr
@@ -12,11 +12,11 @@ Systems-Analysis-and-Modeling 2020/2021
 
 ### Projects
 
-- [ ] [Intermediate]()
+- [x] [Intermediate](Entrega2/)
 - [ ] [Final]()
 
 ### Grades
-| Solution          | Grade 				|
-| :-----------------| :-------------------: |
-| [Intermediate]()			| *00.0* / 20.0           |
-| [Final]()	| *00.0* / 20.0           |
+| Solution          | Grade 				| D1 		| D2 		| D3 	| D4 		| D5 		|
+| :-----------------| :-------------------: | :-------------------: | :-------------------: | :-------------------: | :-------------------: | :-------------------: |
+| [Intermediate](https://github.com/catasofia/Systems-Analysis-and-Modeling/tree/p2)	| *18.18* / 20.00     | *5.0* / 5.0 | *4.9* / 5.0 | *4.5* / 5.0 | *4.5* / 5.0 | *4.5* / 5.0 |
+| [Final]()	| *00.00* / 20.00         |            |            |            |            |            |
