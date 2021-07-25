@@ -2,36 +2,21 @@
 
 # AMS_20-21
 
-Systems Analysis and Modeling 2020/2021
+Systems-Analysis-and-Modeling 2020/2021
 
-### <span style="color:red">WARNINGS</span>
-
-**TODOS** os ficheiros entregues devem ter como prefixo a string "AMS2021_Gxxx_", sendo "xxx" o número do grupo, COM 3 DÍGITOS!!! Por exemplo, para o ficheiro PDF do grupo 12 com o relatório para a primeira entrega, o nome deverá ser "AMS2021_G037_E1.PDF"
-
-#### Group
-
-##### Project1
-
-Group: 037
-
-- @amariaribeiro
+#### Group nº29
+- @catasofia
+- @OcarinaRedcoat
 - @nelsontr
-
-##### Project2
-
-Group: 037
-
-* @amariaribeiro
-* @nelsontr
-* 
-* 
+- @amariaribeiro
 
 ### Projects
-[Document](docs/AMS2020-2021_Projeto_UoD_V01.pdf)
+
+- [x] [Intermediate](Entrega2/)
+- [x] [Final](Entrega3/)
 
 ### Grades
-| Solution				| Grade (out of 20.0) 	|
-| :-------------------- | :-------------------: |
-| [Project1](project1/AMS2021_G037_E1.pdf)	| *00.0*				|
-| [Project2]()			| *00.0*				|
-| [Project3]()			| *00.0*				|
+| Solution          | Grade 				| D1 | D2  | D3  | D4   | D5   | D6  | D7   | D8 | D9 | D10  | D11 |
+| :-----------------| :-------------------: |  :-----------------: |  :-----------------: |  :-----------------: |  :-----------------: |  :-----------------: |  :-----------------: |  :-----------------: |  :-----------------: |  :-----------------: |  :-----------------: |  :-----------------: |
+| [Intermediate](https://github.com/catasofia/Systems-Analysis-and-Modeling/tree/p2)	| *18,18* / 20,00     | *5,0* | *4,9* | *4,5* | *4,5* | *4,5* | *4,5* | - | - | - | - |-|
+| [Final](https://github.com/catasofia/Systems-Analysis-and-Modeling/tree/p3)	| *19,30* / 20,00      | 5  | 4,9 | 4,6 | 4,75 | 4,75 | 4,5 | 4,75 | 5  | 5  | 4,75 | 4,5 |
