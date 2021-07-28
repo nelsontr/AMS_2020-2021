@@ -1,6 +1,6 @@
 <a href="http://fenix.tecnico.ulisboa.pt"><img align="right" src="https://fenix.tecnico.ulisboa.pt/api/bennu-portal/configuration/logo" alt="Fenix Tecnico"></a>
 
-# AMS_20-21
+# AMS_2020-2021
 
 Systems-Analysis-and-Modeling 2020/2021
 
